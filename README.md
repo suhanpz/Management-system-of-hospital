@@ -9,7 +9,12 @@
    
    It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription. Thus, reducing need to manually write  and  sign  by doctor. 
   
-## Steps to configure this HMS web-application on your system:
+## About
+hospital management system project is developed using SpringMVC and Hibernate frameworks, Bootstrap for UI, MySQL database for data storage and Maven as project management tool.
+
+Topics
+javascript mysql bootstrap4 hibernate springmvc hospital-management
+##Steps to configure this HMS web-application on your system:
 
 1. To import this project to your system, you need to first install below softwares: 
    - Eclipse for Java EE Developers and Tomcat server. You can refer this video: https://youtu.be/9iHKCnxUWqQ
