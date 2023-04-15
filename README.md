@@ -1,6 +1,6 @@
 # Hospital Management System
 
-### _ Video Link: _
+### _ Video Link: _ https://github.com/suhanpz/Management-system-of-hospital/blob/main/HOSPITAL%20MANAGEMENT_VIDEO.mp4
 
 ## Description-
    In this Project we aim to solve the traditional issues of hospital management. The existing system provided paper based solution for keeping OPD records of patients and hospital staff, but it gives overload to Doctor, Receptionist and Administrator.  The main issues were inappropriate data keeping, time wastage in storage, retrieval also patients were unable to understand the prescription etc. These issues are solved by providing a separate user account for doctors and other staff. Keeping each patient’s data separate and track previous visits in a single click. 
