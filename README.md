@@ -14,7 +14,7 @@ hospital management system project is developed using SpringMVC and Hibernate fr
 
 Topics
 javascript mysql bootstrap4 hibernate springmvc hospital-management
-##Steps to configure this HMS web-application on your system:
+## Steps to configure this HMS web-application on your system:
 
 1. To import this project to your system, you need to first install below softwares: 
    - Eclipse for Java EE Developers and Tomcat server. You can refer this video: https://youtu.be/9iHKCnxUWqQ
